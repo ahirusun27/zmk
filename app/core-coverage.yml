@@ -42,30 +42,30 @@ include:
     nickname: "niceview"
   - board: bdn9
     snippet: studio-rpc-usb-uart
-    cmake-args: "-DCONFIG_ZMK_STUDIO=y"
+    cmake-args: ""
     nickname: "stm32-studio"
   - board: nice_nano
     shield: reviung41
     snippet: studio-rpc-usb-uart
-    cmake-args: "-DCONFIG_ZMK_STUDIO=y"
+    cmake-args: ""
     nickname: "nrf52-studio"
   - board: nice_nano
     shield: corne_left
     snippet: studio-rpc-usb-uart
-    cmake-args: "-DCONFIG_ZMK_STUDIO=y"
+    cmake-args: ""
     nickname: "split-left-studio"
   - board: nice_nano
     shield: corne_right
     snippet: studio-rpc-usb-uart
-    cmake-args: "-DCONFIG_ZMK_STUDIO=y"
+    cmake-args: ""
     nickname: "split-right-studio"
   - board: sparkfun_pro_micro_rp2040
     shield: reviung41
     snippet: studio-rpc-usb-uart
-    cmake-args: "-DCONFIG_ZMK_STUDIO=y"
+    cmake-args: ""
     nickname: "rp2040-studio"
   - board: seeeduino_xiao
     shield: hummingbird
     snippet: studio-rpc-usb-uart
-    cmake-args: "-DCONFIG_ZMK_STUDIO=y"
+    cmake-args: ""
     nickname: "samd21-studio"
